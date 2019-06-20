@@ -271,4 +271,7 @@ Assignment was successful.[0K
 [0K
 [32;1mBUILD SUCCESSFUL[0;39m in 13s
 1 actionable task: 1 executed
-[2K[0m]0;pal-4@pal4-OptiPlex-7050: ~/workspace/assignment-submission[01;
+[2K[0m]0;pal-4@pal4-OptiPlex-7050: ~/workspace/assignment-submission[01;32mpal-4@pal4-OptiPlex-7050[00m:[01;34m~/workspace/assignment-submission[00m$ exit
+exit
+
+Script done on 2019-06-20 09:06:37+0530
